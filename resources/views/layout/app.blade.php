@@ -36,7 +36,6 @@
     
     @include('layout.footer')
   </div>
-  
   @include('layout.script')
 </body>
 </html>
